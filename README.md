@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything at the moment
 - 📫 How to reach me: rtafamombe@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I was born overseas :)
+- ⚡ Fun fact: C is my favorite program i've learned so far
 
 <!---
 Tafamomber/Tafamomber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
